@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather timeout="10" numDigits="1">
+        <Say>Incoming call from 38 Degrees phone. Press any key to accept or hang up to send them to 38 Degree voicemail.</Say>
+    </Gather>
+</Response>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Dial timeout="10" action="/second.xml">+447778033213</Dial>
+    <Say>You could not be connected. Please leave a message.</Say>
+    <Record action="mail.php" />
+</Response>
